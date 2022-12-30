@@ -1,7 +1,5 @@
 # Edición de vídeo en el CEPR Arquitecto Leoz
 
-![logo][portada]
-
 <p align="center">
 <img src="https://github.com/DavidLMS/formacion-profesorado-edicion-video-cepr-arquitecto-leoz/blob/main/assets/logo-min.png?raw=true" alt="Logo">
 </p>
