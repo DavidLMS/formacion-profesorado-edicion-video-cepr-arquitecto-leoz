@@ -3,7 +3,7 @@
 ![logo][portada]
 
 <p align="center">
-[portada]: https://github.com/DavidLMS/formacion-profesorado-edicion-video-cepr-arquitecto-leoz/blob/main/assets/logo-min.png?raw=true
+<img src="https://github.com/DavidLMS/formacion-profesorado-edicion-video-cepr-arquitecto-leoz/blob/main/assets/logo-min.png?raw=true" alt="Logo">
 </p>
 
 <p align="center">
