@@ -2,7 +2,7 @@
 
 ![logo][portada]
 
-[portada]: https://github.com/DavidLMS/formacion-profesorado-edicion-video-cepr-arquitecto-leoz/blob/main/assets/logo.png?raw=true
+[portada]: https://github.com/DavidLMS/formacion-profesorado-edicion-video-cepr-arquitecto-leoz/blob/main/assets/logo-min.png?raw=true
 
 <p align="center">
   <a href="https://github.com/DavidLMS/formacion-profesorado-edicion-video/pulls">
