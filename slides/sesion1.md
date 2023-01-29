@@ -196,6 +196,10 @@ Note:
 
 
 ## Guías de ayuda
+
+<img class="r-stretch" style="text-align: center" src="../assets/qr-guides.png">
+
+<small>https://davidlms.github.io/formacion-profesorado-edicion-video-cepr-arquitecto-leoz/guides/</small>
 ---
 ## Ticket de salida
 
