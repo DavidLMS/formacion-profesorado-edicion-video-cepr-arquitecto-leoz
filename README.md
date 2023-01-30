@@ -15,6 +15,10 @@
 
 Repositorio para alojar los materiales del curso de edición de vídeo, realizado en el CEPR Arquitecto Leoz (Puerto Real, Cádiz) durante los meses de enero-abril de 2023 (6 horas presenciales en dos sesiones).
 
+[Acceso a las diapositivas de la primera sesión](/slides/sesion1.html)
+
+[Acceso a las guías](/guides)
+
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
