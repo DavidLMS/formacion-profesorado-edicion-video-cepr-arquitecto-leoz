@@ -17,7 +17,7 @@ Repositorio para alojar los materiales del curso de edición de vídeo, realizad
 
 [Acceso a las diapositivas de la primera sesión](/slides/sesion1.html)
 
-[Acceso a las guías](/guides)
+[Acceso a las guías](/guides/index.html)
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
