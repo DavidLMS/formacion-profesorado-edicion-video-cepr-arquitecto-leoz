@@ -120,7 +120,7 @@ Cualquiera que se adapte a las necesidades de tu proyecto <!-- .element: class="
 
 ## La interfaz de CapCut
 
-<img class="r-stretch" style="text-align: center" src="../assets/interface.png">
+<img class="r-stretch" style="text-align: center" src="../assets/interface.PNG">
 
 Note:
 
@@ -133,7 +133,7 @@ Note:
 
 ## ¡Recortando que es gerundio!
 
-<img class="r-stretch" style="text-align: center" src="../assets/cut.png">
+<img class="r-stretch" style="text-align: center" src="../assets/cut.PNG">
 
 Note:
 
@@ -142,7 +142,7 @@ Note:
 
 ## De uno a otro: La transición
 
-<img class="r-stretch" style="text-align: center" src="../assets/transition.png">
+<img class="r-stretch" style="text-align: center" src="../assets/transition.PNG">
 
 Note:
 
@@ -151,7 +151,7 @@ Note:
 
 ## Texto everywhere
 
-<img class="r-stretch" style="text-align: center" src="../assets/text.png">
+<img class="r-stretch" style="text-align: center" src="../assets/text.PNG">
 
 Note:
 
@@ -161,7 +161,7 @@ Note:
 
 ## Una mijita de retoque
 
-<img class="r-stretch" style="text-align: center" src="../assets/effects.png">
+<img class="r-stretch" style="text-align: center" src="../assets/effects.PNG">
 
 Note:
 
@@ -172,7 +172,7 @@ Note:
 
 ## ¿Qué es eso que se escucha?
 
-<img class="r-stretch" style="text-align: center" src="../assets/sounds.png">
+<img class="r-stretch" style="text-align: center" src="../assets/sounds.PNG">
 
 Note:
 
@@ -183,7 +183,7 @@ Note:
 
 ## ¡Me lo llevo!
 
-<img class="r-stretch" style="text-align: center" src="../assets/render.png">
+<img class="r-stretch" style="text-align: center" src="../assets/render.PNG">
 
 Note:
 
