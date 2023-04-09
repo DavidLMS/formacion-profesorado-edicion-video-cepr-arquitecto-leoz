@@ -16,3 +16,7 @@
 * [Cambiar el estilo (la mayoría en fotografías)](cambiar_el_estilo.html)
 * [Agregar un efecto especial](agregar_un_efecto_especial.html)
 * [Eliminar el fondo](eliminar_el_fondo.html)
+
+## Guías Kdenlive
+
+* [Manual oficial](https://docs.kdenlive.org/es/index.html)

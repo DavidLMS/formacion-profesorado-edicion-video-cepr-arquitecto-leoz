@@ -18,9 +18,105 @@
 ---
 ## Edición de vídeo en el escritorio
 
-Es posible usar CapCut
+<img class="r-stretch" style="text-align: center" src="../assets/editing-video.png">
 
-Usaremos Kdenlive v22.04.3
+
+## ¡CapCut disponible!
+
+<img class="r-stretch" style="text-align: center" src="https://p16-capcut-va.ibyteimg.com/tos-maliva-i-6rr7idwo9f-us/a3748f74b64948909661c74828736a23~tplv-6rr7idwo9f-image.image">
+
+
+## Usaremos Kdenlive
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-logo.png">
+
+<small>Versión 22.04.3</small>
+
+
+## Elementos básicos de la interfaz
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-interface.png">
+
+
+## Agrega tus clips
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-clips.png">
+
+Note:
+
+- Descargar clips de Pexels y agregarlos al Project Bin
+
+
+## ¿Qué es un clip proxy?
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-proxy.png">
+
+Note:
+
+- Marcarlos como Proxy y agregarlos a la línea de tiempo
+
+
+## Cortes y transiciones
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-cuts.png">
+
+Note:
+
+- Transiciones de dos tipos: Líneas diferentes y arrastrando el punto morado y quitando frames y pulsando U (o en el botón de mix)
+
+
+## Transformaciones y keyframes
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-effects.png">
+
+Note:
+
+- Efectos que pueden enseñarse: Box Blur, Transform, Chroma Key (basic y advanced), Rotoscoping
+
+
+## ¿Qué es un LUT?
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-lut.png">
+
+Note:
+
+- Efecto Apply LUT
+
+
+## Puedes añadir títulos y subtítulos
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-subtitles.png">
+
+Note:
+
+- Generar textos
+- Añadir subtítulos manuales
+- Posibilidad de reconocimiento, pero difícil de configurar
+
+
+## Y música
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-music.png">
+
+Note:
+
+- Añadir música de Jamendo
+- Grabar y filtrarlo en Adobe Podcasts
+
+
+## ¡A renderizar!
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-render.png">
+
+
+## PRO TIP: Notas del proyecto
+
+<img class="r-stretch" style="text-align: center" src="../assets/kdenlive-guides.png">
+
+
+## Los efectos pueden ser sencillos
+
+<img class="r-stretch" style="text-align: center" src="../assets/runwayml.png">
 ---
 ## ¿Bienvenidos al futuro?
 
